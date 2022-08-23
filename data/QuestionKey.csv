@@ -1,0 +1,17 @@
+﻿Qnum,Condition,Correct,Manner,Voicing
+Q1,Unmasked,zoo,fricative,voiced
+Q2,Masked,jus,fricative,voiced
+Q3,Unmasked,do,stop,voiced
+Q4,Unmasked,jus,fricative,voiced
+Q5,Masked,shoe,fricative,unvoiced
+Q6,Masked,loo,semivowel,voiced
+Q7,Masked,rue,semivowel,voiced
+Q8,Unmasked,shoe,fricative,unvoiced
+Q9,Unmasked,rue,semivowel,voiced
+Q10,Masked,do,stop,voiced
+Q11,Unmasked,to,stop,unvoiced
+Q12,Masked,to,stop,unvoiced
+Q13,Unmasked,sue,fricative,unvoiced
+Q14,Masked,sue,fricative,unvoiced
+Q15,Unmasked,loo,semivowel,voiced
+Q16,Masked,zoo,fricative,voiced
